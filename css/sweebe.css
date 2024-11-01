@@ -1,0 +1,39 @@
+.sweebedotcom_upcoming_events {}
+.sweebedotcom_upcoming_events .fixed {
+    clear:both;
+}
+.sweebedotcom_upcoming_events .event{
+    padding:10px;
+    margin-bottom: 10px;
+    background-color:#f6f6f6;
+}
+.sweebedotcom_upcoming_events .event.even {
+}
+.sweebedotcom_upcoming_events .event.odd {
+}
+.sweebedotcom_upcoming_events .event:hover {
+    background-color:#d9d9d9;
+}
+.sweebedotcom_upcoming_events .event h2{
+    margin:0 !important;
+    padding:0 !important;
+}
+.sweebedotcom_upcoming_events .event p.date {
+    margin:0 !important;
+    padding:0 !important;
+}
+.sweebedotcom_upcoming_events .event .content {}
+.sweebedotcom_upcoming_events .event .content .image {
+    width:88px;
+    float:left;
+}
+
+.sweebedotcom_upcoming_events .event .content .excerpt {
+    margin-left: 10px;
+    width: 520px;
+    float:left;
+}
+
+.sweebedotcom_upcoming_events .show-all {
+    float:right;
+}
